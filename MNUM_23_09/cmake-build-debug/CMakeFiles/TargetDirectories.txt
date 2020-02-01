@@ -1,0 +1,3 @@
+C:/Users/andre_4mxog39/CLionProjects/MNUM_23_09/cmake-build-debug/CMakeFiles/MNUM_23_09.dir
+C:/Users/andre_4mxog39/CLionProjects/MNUM_23_09/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre_4mxog39/CLionProjects/MNUM_23_09/cmake-build-debug/CMakeFiles/rebuild_cache.dir

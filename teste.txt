@@ -1,0 +1,17 @@
+dy/dt = z
+d^2y/dt^2 = dz/dt
+
+yn+1 = yn + z
+
+dz/dt     = 2 + t^2 + tz
+d^2y/dt^2 = 2 + t^2 + tdy/dt
+
+ | z' = 2 + tt + tz
+-| y'' = 2 + tt + ty´
+ | z = y'
+tn+1 = tn + h
+zn+1 = zn + h * (2 + tt + tzn) 
+yn+1 = yn + h * zn+1 
+
+
+
